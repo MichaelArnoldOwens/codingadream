@@ -1,6 +1,6 @@
 /*Banner*/
 #banner{
-  background: url("../img/background3.jpg") center center fixed;
+  background: url("/img/background3.jpg") center center fixed;
   background-size: cover;
   background-attachment: scroll;
   background-repeat: no-repeat;
