@@ -23,7 +23,7 @@ map "/resume" do
       'Content-Type'  => 'text/html', 
       'Cache-Control' => 'public, max-age=86400' 
     },
-    File.open('public/portfolio/resume.html', File::RDONLY)
+    File.open('public/resume.html', File::RDONLY)
   ]
 }
 end
